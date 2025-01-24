@@ -446,5 +446,21 @@
       "https://huggingface.co/wsxiaoys/Yi-Coder-9B-Chat-Q8_0-GGUF/resolve/main/yi-coder-9b-chat-q8_0.gguf"
     ],
     "sha256": "23b4408c9a621bc563ed9f998a7929776ba50f5102ed2c2436b2f917404b05e7"
+  },
+  {
+    "license_name": "Apache 2.0",
+    "license_url": "https://choosealicense.com/licenses/apache-2.0/",
+    "prompt_template": "<|fim_prefix|>{prefix}<|fim_suffix|>{suffix}<|fim_middle|>",
+    "name": "DeepSeek-R1-Distill-Qwen-1.5B",
+    "provider_url": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-1.5B-GGUF",
+    "partition_urls": [
+      {
+        "urls": [
+          "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-1.5B-GGUF/blob/main/DeepSeek-R1-Distill-Qwen-1.5B-f16.gguf"
+        ],
+        "sha256": "c96782c9c74110d23da375c0194dd0e5d05a10b8dd475d87972b97022b5ac9d4"
+      }
+    ],
+    "sha256": ""
   }
 ]
